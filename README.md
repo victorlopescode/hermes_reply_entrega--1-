@@ -22,3 +22,7 @@
 1. Executar o script SQL em Oracle ou PostgreSQL ajustando tipos se necessário.
 2. Rodar o notebook em notebook/ para gerar dataset e treinar modelo.
 3. Artefatos gerados em data/ e output/.
+
+## Video
+
+- https://youtu.be/go-G16S-k18
